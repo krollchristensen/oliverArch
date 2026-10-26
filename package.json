@@ -1,0 +1,13 @@
+{
+  "name": "oliver-arch-example-v3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Express architecture: route -> controller -> service with validation and error middleware",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
